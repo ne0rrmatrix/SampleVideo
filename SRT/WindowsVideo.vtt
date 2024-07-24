@@ -1,13 +1,5 @@
 WEBVTT 
 
-NOTE The Dotnet Community toolkit rocks!
-
-STYLE
-::cue {
-  background-color: yellow;
-  color: black;
-}
-
 00:00:00.500 --> 00:00:02.200
 - And now this is the video you would see on Windows.
 
