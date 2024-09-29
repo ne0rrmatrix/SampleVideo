@@ -2,6 +2,7 @@
 #EXT-X-TARGETDURATION:22
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:21.20000,
-https://raw.githubusercontent.com/ne0rrmatrix/SampleVideo/main/SRT/WindowsVideo.vtt
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:22.00000,       
+https://raw.githubusercontent.com/ne0rrmatrix/SampleVideo/main/SRT/English.webvtt
 #EXT-X-ENDLIST
