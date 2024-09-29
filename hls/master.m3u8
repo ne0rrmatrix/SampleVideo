@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="en",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",URI="https://raw.githubusercontent.com/ne0rrmatrix/SampleVideo/main/SRT/WindowsVideo.vtt"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Spanish",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,LANGUAGE="es",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",,URI="https://raw.githubusercontent.com/ne0rrmatrix/SampleVideo/main/SRT/Spanish.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="en",URI="https://raw.githubusercontent.com/ne0rrmatrix/SampleVideo/main/SRT/WindowsVideo.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Spanish",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="es",URI="https://raw.githubusercontent.com/ne0rrmatrix/SampleVideo/main/SRT/Spanish.vtt"
 
 #EXT-X-STREAM-INF:BANDWIDTH=1047200,RESOLUTION=640x360,CODECS="avc1.4d401e,mp4a.40.2"
 https://raw.githubusercontent.com/ne0rrmatrix/SampleVideo/refs/heads/main/hls/0.m3u8
