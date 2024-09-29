@@ -3,17 +3,17 @@
 ## Generated with https://github.com/shaka-project/shaka-packager version v3.1.0-52647b9-release
 #EXT-X-TARGETDURATION:11
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-MAP:URI="audio.mp4",BYTERANGE="782@0"
+#EXT-X-MAP:URI="https://github.com/ne0rrmatrix/SampleVideo/raw/refs/heads/main/hls/audio.mp4",BYTERANGE="782@0"
 #EXTINF:6.014,
 #EXT-X-BYTERANGE:97668@862
-audio.mp4
+https://github.com/ne0rrmatrix/SampleVideo/raw/refs/heads/main/hls/audio.mp4
 #EXTINF:5.991,
 #EXT-X-BYTERANGE:96854
-audio.mp4
+https://github.com/ne0rrmatrix/SampleVideo/raw/refs/heads/main/hls/audio.mp4
 #EXTINF:6.014,
 #EXT-X-BYTERANGE:97401
-audio.mp4
+https://github.com/ne0rrmatrix/SampleVideo/raw/refs/heads/main/hls/audio.mp4
 #EXTINF:3.135,
 #EXT-X-BYTERANGE:50591
-audio.mp4
+https://github.com/ne0rrmatrix/SampleVideo/raw/refs/heads/main/hls/audio.mp4
 #EXT-X-ENDLIST

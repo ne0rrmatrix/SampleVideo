@@ -3,16 +3,16 @@
 
 #EXT-X-INDEPENDENT-SEGMENTS
 
-#EXT-X-MEDIA:TYPE=AUDIO,URI="audio.m3u8",GROUP-ID="audio",LANGUAGE="en",NAME="ENGLISH",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://github.com/ne0rrmatrix/SampleVideo/raw/refs/heads/main/hls/audio.m3u8",GROUP-ID="audio",LANGUAGE="en",NAME="ENGLISH",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2"
 
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="stream_5.m3u8",GROUP-ID="default-text-group",LANGUAGE="en",NAME="stream_5",DEFAULT=NO,AUTOSELECT=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="stream_6.m3u8",GROUP-ID="default-text-group",LANGUAGE="es",NAME="stream_6",DEFAULT=NO,AUTOSELECT=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://github.com/ne0rrmatrix/SampleVideo/raw/refs/heads/main/hls/stream_5.m3u8",GROUP-ID="default-text-group",LANGUAGE="en",NAME="stream_5",DEFAULT=NO,AUTOSELECT=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://github.com/ne0rrmatrix/SampleVideo/raw/refs/heads/main/hls/stream_6.m3u8",GROUP-ID="default-text-group",LANGUAGE="es",NAME="stream_6",DEFAULT=NO,AUTOSELECT=YES
 
 #EXT-X-STREAM-INF:BANDWIDTH=1169012,AVERAGE-BANDWIDTH=1084409,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000,VIDEO-RANGE=SDR,AUDIO="audio",SUBTITLES="default-text-group",CLOSED-CAPTIONS=NONE
-h264_360p.m3u8
+https://github.com/ne0rrmatrix/SampleVideo/raw/refs/heads/main/hls/h264_360p.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1169012,AVERAGE-BANDWIDTH=1084409,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000,VIDEO-RANGE=SDR,AUDIO="audio",SUBTITLES="default-text-group",CLOSED-CAPTIONS=NONE
-h264_480p.m3u8
+https://github.com/ne0rrmatrix/SampleVideo/raw/refs/heads/main/hls/h264_480p.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1169012,AVERAGE-BANDWIDTH=1084409,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000,VIDEO-RANGE=SDR,AUDIO="audio",SUBTITLES="default-text-group",CLOSED-CAPTIONS=NONE
-h264_720p.m3u8
+https://github.com/ne0rrmatrix/SampleVideo/raw/refs/heads/main/hls/h264_720p.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1169012,AVERAGE-BANDWIDTH=1084409,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000,VIDEO-RANGE=SDR,AUDIO="audio",SUBTITLES="default-text-group",CLOSED-CAPTIONS=NONE
-h264_1080p.m3u8
+https://github.com/ne0rrmatrix/SampleVideo/raw/refs/heads/main/hls/h264_1080p.m3u8
